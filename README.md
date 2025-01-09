@@ -5,22 +5,10 @@
 After cleaning the outliers,invalid and blank values from the dataset.
 
 <u><h3>Data set looks like</h3></u>
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/5a0ce0ec-7097-4dc8-9e65-2ff32843edb5)
+<br>
 
 <br>
 
