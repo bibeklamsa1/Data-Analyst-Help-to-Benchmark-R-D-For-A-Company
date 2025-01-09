@@ -22,7 +22,7 @@ After cleaning the outliers,invalid and blank values from the dataset.
 
 
 
-
+<u><h3>Visualizations</h3></u>
 
 ![image](https://github.com/user-attachments/assets/588d9505-c365-4d46-a31c-f44a4ee3ad8b)
 
