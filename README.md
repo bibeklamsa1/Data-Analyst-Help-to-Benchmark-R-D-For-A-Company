@@ -4,7 +4,7 @@
 
 After cleaning the outliers,invalid and blank values from the dataset.
 
-<h3>Data set looks like</h3>
+<u><h3>Data set looks like</h3><u>
 
 
 
@@ -23,10 +23,13 @@ After cleaning the outliers,invalid and blank values from the dataset.
 
 
 
-<h3>Visualization of data</h3>
 
 ![image](https://github.com/user-attachments/assets/588d9505-c365-4d46-a31c-f44a4ee3ad8b)
 
 
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/669387b4-0603-4900-976e-6c69d3002115" />
 
+
+
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/c3518757-ff64-411e-a77d-c238d69fda9d" />
 
