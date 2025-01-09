@@ -22,7 +22,7 @@ After cleaning the outliers,invalid and blank values from the dataset.
 
 
 
-<u><h3>Visualizations</h3></u>
+<br>
 
 <img alt="image" src="https://github.com/user-attachments/assets/ed6ffde6-16a8-4cce-a6fd-d3d9d86e4503" />
 
@@ -30,7 +30,7 @@ After cleaning the outliers,invalid and blank values from the dataset.
 <br>
 <img  alt="image" src="https://github.com/user-attachments/assets/669387b4-0603-4900-976e-6c69d3002115" />
 
-
-
+<br>
+<br>
 <img  alt="image" src="https://github.com/user-attachments/assets/c3518757-ff64-411e-a77d-c238d69fda9d" />
 
