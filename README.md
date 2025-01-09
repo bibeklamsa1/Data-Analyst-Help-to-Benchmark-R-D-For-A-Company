@@ -24,7 +24,8 @@ After cleaning the outliers,invalid and blank values from the dataset.
 
 <u><h3>Visualizations</h3></u>
 
-![image](https://github.com/user-attachments/assets/588d9505-c365-4d46-a31c-f44a4ee3ad8b)
+<img alt="image" src="https://github.com/user-attachments/assets/ed6ffde6-16a8-4cce-a6fd-d3d9d86e4503" />
+
 <br>
 <br>
 <img  alt="image" src="https://github.com/user-attachments/assets/669387b4-0603-4900-976e-6c69d3002115" />
